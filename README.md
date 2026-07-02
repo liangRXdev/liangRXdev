@@ -24,7 +24,7 @@
 | [**TFDA-drug-info-search**](https://github.com/liangRXdev/TFDA-drug-info-search) | Taiwan TFDA drug lookup — 藥品檔 + 外觀檔 + 健保規範 + 仿單整合查詢 | HTML · GitHub Actions ETL |
 | [**TFDA-drug-shortage-dashboard**](https://github.com/liangRXdev/TFDA-drug-shortage-dashboard) | Auto-tracks Taiwan drug-shortage platform & alternative-drug notices／自動抓取缺藥替代公告 | TypeScript · React |
 | [**TFDA-drug-recall-dashboard**](https://github.com/liangRXdev/TFDA-drug-recall-dashboard) | Auto-tracks TFDA drug-recall announcements／食藥署藥品回收公告 | HTML |
-| [**pharmacist-llm-wiki-template**](https://github.com/liangRXdev/pharmacist-llm-wiki-template) | Claude Code + Obsidian workflow & schema for a personal clinical-pharmacy EBM knowledge base | Python · CI |
+| [**pharmacist-llm-wiki-template**](https://github.com/liangRXdev/pharmacist-llm-wiki-template) | Claude Code + Obsidian workflow & schema for a personal clinical-pharmacy EBM knowledge base／藥師版第二大腦 | Python · CI |
 | [**pharmacy-portal**](https://github.com/liangRXdev/pharmacy-portal) | Unified entry point for all clinical tools／個人臨床工具總入口 | HTML · Cloudflare |
 
 ---
