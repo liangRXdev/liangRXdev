@@ -22,6 +22,7 @@
 |---|---|---|
 | [**vanco-auc-calc**](https://github.com/liangRXdev/vanco-auc-calc) | Vancomycin AUC-guided dosing — empiric start + two-level Sawchuk-Zaske + Bayesian AUC (Goti 2018 two-compartment MAP prior), with data-confidence tiering & deterministic safety gates／繁中萬古黴素 AUC 導向劑量計算 | HTML · Pure front-end PK/Bayesian |
 | [**faers-suspect-ranker**](https://github.com/liangRXdev/faers-suspect-ranker) | FAERS adverse-drug-reaction suspect ranking — reverse query + ROR/PRR disproportionality + temporal weighting + Naranjo/WHO-UMC scoring（教學用，非臨床決策工具） | HTML · OpenFDA API |
+| [**TFDA-drug-id-quiz**](https://github.com/liangRXdev/TFDA-drug-id-quiz) | Pill-identification self-test for pharmacists — 3 difficulty levels over 3,913 TFDA drug-appearance records, with provably distinguishable distractors and chance-corrected scoring per level／藥品辨識王，依實拍圖辨識英文品名 | HTML · GitHub Actions ETL |
 | [**TFDA-drug-info-search**](https://github.com/liangRXdev/TFDA-drug-info-search) | Taiwan TFDA drug lookup — 藥品檔 + 外觀檔 + 健保規範 + 仿單整合查詢 | HTML · GitHub Actions ETL |
 | [**TFDA-drug-shortage-dashboard**](https://github.com/liangRXdev/TFDA-drug-shortage-dashboard) | Auto-tracks Taiwan drug-shortage platform & alternative-drug notices／自動抓取缺藥替代公告 | TypeScript · React |
 | [**TFDA-drug-recall-dashboard**](https://github.com/liangRXdev/TFDA-drug-recall-dashboard) | Auto-tracks TFDA drug-recall announcements／食藥署藥品回收公告 | HTML |
