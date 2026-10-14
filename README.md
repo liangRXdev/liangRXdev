@@ -20,6 +20,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**critical-appraisal-training-tw**](https://github.com/liangRXdev/critical-appraisal-training-tw) | Interactive EBM appraisal training with CASP SR/MA, RoB 2, and GRADE — learner answers, reference comparison, and instructor review／實證評讀練習室（[線上版](https://liangrxdev.github.io/critical-appraisal-training-tw/)） | HTML · Vanilla JavaScript · GitHub Pages |
 | [**vanco-auc-calc**](https://github.com/liangRXdev/vanco-auc-calc) | Vancomycin AUC-guided dosing — empiric start + two-level Sawchuk-Zaske + Bayesian AUC (Goti 2018 two-compartment MAP prior), with data-confidence tiering & deterministic safety gates／繁中萬古黴素 AUC 導向劑量計算 | HTML · Pure front-end PK/Bayesian |
 | [**faers-suspect-ranker**](https://github.com/liangRXdev/faers-suspect-ranker) | FAERS adverse-drug-reaction suspect ranking — reverse query + ROR/PRR disproportionality + temporal weighting + Naranjo/WHO-UMC scoring（教學用，非臨床決策工具） | HTML · OpenFDA API |
 | [**TFDA-drug-id-quiz**](https://github.com/liangRXdev/TFDA-drug-id-quiz) | Pill-identification self-test for pharmacists — 3 difficulty levels over 3,913 TFDA drug-appearance records, with provably distinguishable distractors and chance-corrected scoring per level／藥品辨識王，依實拍圖辨識英文品名 | HTML · GitHub Actions ETL |
