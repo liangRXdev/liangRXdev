@@ -20,6 +20,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**taiwan-pharmacist-exam-data**](https://github.com/liangRXdev/taiwan-pharmacist-exam-data) | Auditable Taiwan pharmacist licensure-exam question dataset (since 113/2024) — rule-based PDF extraction, official answer corrections, source-revision provenance, and QA-gated releases／台灣藥師國考標準化題庫資料層 | Python · Rule-based ETL · pytest |
 | [**critical-appraisal-training-tw**](https://github.com/liangRXdev/critical-appraisal-training-tw) | Interactive EBM appraisal training with CASP SR/MA, RoB 2, and GRADE — learner answers, reference comparison, and instructor review／實證評讀練習室（[線上版](https://liangrxdev.github.io/critical-appraisal-training-tw/)） | HTML · Vanilla JavaScript · GitHub Pages |
 | [**vanco-auc-calc**](https://github.com/liangRXdev/vanco-auc-calc) | Vancomycin AUC-guided dosing — empiric start + two-level Sawchuk-Zaske + Bayesian AUC (Goti 2018 two-compartment MAP prior), with data-confidence tiering & deterministic safety gates／繁中萬古黴素 AUC 導向劑量計算 | HTML · Pure front-end PK/Bayesian |
 | [**faers-suspect-ranker**](https://github.com/liangRXdev/faers-suspect-ranker) | FAERS adverse-drug-reaction suspect ranking — reverse query + ROR/PRR disproportionality + temporal weighting + Naranjo/WHO-UMC scoring（教學用，非臨床決策工具） | HTML · OpenFDA API |
